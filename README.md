@@ -9,3 +9,7 @@
 
 ## Chapter 5
 [codesandbox로 열기](https://codesandbox.io/s/github/JsonKim/fastcampus-fp-typescript/tree/main/chapter5?file=/src/clip3.ts)
+
+## Chapter 6
+[codesandbox로 열기](https://codesandbox.io/s/github/JsonKim/fastcampus-fp-typescript/tree/main/chapter6?file=/src/clip5.ts)
+

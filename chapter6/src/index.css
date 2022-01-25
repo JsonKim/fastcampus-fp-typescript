@@ -1,0 +1,11 @@
+body {
+  font-size: 0.8rem;
+}
+
+.gray {
+  color: gray;
+}
+
+.strike {
+  text-decoration: line-through;
+}
