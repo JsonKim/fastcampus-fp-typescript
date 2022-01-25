@@ -8,4 +8,4 @@
 [codesandbox로 열기](https://codesandbox.io/s/github/JsonKim/fastcampus-fp-typescript/tree/main/chapter4?file=/src/clip4.ts)
 
 ## Chapter 5
-[codesandbox로 열기](https://codesandbox.io/s/github/JsonKim/fastcampus-fp-typescript/tree/main/chapter4?file=/src/clip3.ts)
+[codesandbox로 열기](https://codesandbox.io/s/github/JsonKim/fastcampus-fp-typescript/tree/main/chapter5?file=/src/clip3.ts)
