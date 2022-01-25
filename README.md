@@ -22,3 +22,6 @@
 ## Chapter 8 - Clip 8
 [codesandbox로 열기](https://codesandbox.io/s/github/JsonKim/fastcampus-fp-typescript/tree/main/chapter8-clip8?file=/src/renderButtons.ts)
 
+## Chapter 9
+[codesandbox로 열기](https://codesandbox.io/s/github/JsonKim/fastcampus-fp-typescript/tree/main/chapter8-clip8?file=/src/clip3.ts)
+
